@@ -1,2 +1,4 @@
 This is an example
 This line is to test a pull request
+
+This is a line to test the git gui
