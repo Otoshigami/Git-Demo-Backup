@@ -4,3 +4,6 @@ This line is to test a pull request
 This is a line to test the git gui
 
 This is a test about branches
+
+Tis is an extra commit on the branch 
+before merging with the master
