@@ -6,3 +6,5 @@ This is a line to test the git gui
 This is a test about branches
 
 This is a test for the non fast forward merge
+
+this is a test using visual studio
